@@ -9,4 +9,4 @@
 </p>
 
 <h2>Projects</h2>
-<p>The Night Carnival (TNC)</p>
+<ul>- The Night Carnival (TNC)</ul>
